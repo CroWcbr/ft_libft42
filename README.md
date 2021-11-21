@@ -1,4 +1,4 @@
-# ft_libft
+# libft
 ## Info
 Libft is a School 42 project. The purpose of this project is to create own C library.
 > <img width="201" alt="Screen Shot 2021-11-20 at 9 54 09 PM" src="https://user-images.githubusercontent.com/94758944/142737931-82e87775-985f-4fac-b855-809590505fd1.png">
